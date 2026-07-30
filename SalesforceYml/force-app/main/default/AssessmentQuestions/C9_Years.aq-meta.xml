@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>C9 Years</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Years</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Integer</dataType>
+    <developerName>C9_Years</developerName>
+    <name>C9 Years</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

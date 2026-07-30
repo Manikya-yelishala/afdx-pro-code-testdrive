@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>D1 Why do you want a firearms license and to use firearms?</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>D1 Why do you want a firearms license and to use firearms?</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextArea</dataType>
+    <developerName>D1_Why_do_you_want_a_firearms_license_and_to_use_firearms</developerName>
+    <name>D1 Why do you want a firearms license and to use firearms?</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

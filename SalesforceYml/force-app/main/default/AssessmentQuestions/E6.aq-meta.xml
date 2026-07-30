@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>E6</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Do you belong to, or associate with, a gang or an organised criminal group, or any individual who does have gang or organised criminal group affiliations?</questionText>
+        <responseValues>No
+Yes</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>E6</developerName>
+    <name>E6</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

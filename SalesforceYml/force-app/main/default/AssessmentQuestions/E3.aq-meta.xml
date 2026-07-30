@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>E3</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>E3 Are you currently charged with or have you ever been convicted of an offence against any of - section 231A of the Crimes Act 1961, or the Game Animal Council Act2013, or the Wildlife Act 1953, or the Wild Animal Control Act 1977?</questionText>
+        <responseValues>No
+Yes</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>E3</developerName>
+    <name>E3</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

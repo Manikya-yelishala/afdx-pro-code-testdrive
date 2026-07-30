@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>C3 What is your role/position and what you do at work?</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>C3 What is your role/position and what you do at work?</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Text</dataType>
+    <developerName>C3_What_is_your_role_position_and_what_you_do_at_work</developerName>
+    <name>C3 What is your role/position and what you do at work?</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

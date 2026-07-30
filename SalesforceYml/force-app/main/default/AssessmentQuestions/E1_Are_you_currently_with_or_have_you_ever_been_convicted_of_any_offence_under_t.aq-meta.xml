@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>E1 Are you currently with or have you ever been convicted of any offence under the Arms Act 1983?</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>E1 Are you currently with or have you ever been convicted of any offence under the Arms Act 1983?</questionText>
+        <responseValues>No
+Yes</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>E1_Are_you_currently_with_or_have_you_ever_been_convicted_of_any_offence_under_t</developerName>
+    <name>E1 Are you currently with or have you ever been convicted of any offence under the Arms Act 1983?</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

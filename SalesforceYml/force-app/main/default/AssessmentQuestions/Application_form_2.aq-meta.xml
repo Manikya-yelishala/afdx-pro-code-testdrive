@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Application form 2</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;h3&gt;How much it costs:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;First time licence &amp;ndash; $126.50&lt;/li&gt;
+  &lt;li&gt;Renewal before your licence expires &amp;ndash; $126.50&lt;/li&gt;
+  &lt;li&gt;Renewal after your licence has expired &amp;ndash; $241.50&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These fees include GST and are not refundable, even if your application is refused.&lt;/p&gt;</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>Application_form_2</developerName>
+    <name>Application form 2</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

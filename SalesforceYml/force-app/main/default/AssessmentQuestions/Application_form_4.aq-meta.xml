@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Application form 4</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;h3&gt;Information you must provide:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;a completed form&lt;/li&gt;
+  &lt;li&gt;proof of identity (refer to page 2)&lt;/li&gt;
+  &lt;li&gt;a receipt from NZ Post to confirm payment&lt;/li&gt;
+  &lt;li&gt;other supporting documentation (e.g. medical certificate or criminal checks if applicable)&lt;/li&gt;
+  &lt;li&gt;other endorsement or recognition applications (if applicable).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Do not staple any documents together. If you run out of space, include details in &lt;strong&gt;section P&lt;/strong&gt; or provide additional pages with your full name on them.&lt;/p&gt;</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>Application_form_4</developerName>
+    <name>Application form 4</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

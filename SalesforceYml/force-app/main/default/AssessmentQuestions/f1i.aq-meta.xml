@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>f1i</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;b&gt;Note: &lt;b/&gt; If you answered ‘Yes’ to any of the above questions, please provide details. This is in addition to a certificate from your practitioner.</questionText>
+        <status>Active</status>
+        <versionNumber>4</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextArea</dataType>
+    <developerName>f1i</developerName>
+    <name>f1i</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

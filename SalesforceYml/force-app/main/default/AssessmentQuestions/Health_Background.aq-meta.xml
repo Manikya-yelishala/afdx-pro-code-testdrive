@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Health Background</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>The following questions help us understand if you and others will be safe if you have access to firearms. A ‘yes’ answer does not
+mean your application will be refused but it may lead to further examination.
+If you answer ‘yes’ to any of the items in section F.1, you must provide a certificate from your health practitioner.
+&lt;b&gt;Note: &lt;/b&gt;The certificate should state the nature of the health condition, whether it has been resolved, any on-going treatment, and
+whether they believe (having considered the interests of the safety of individuals, including yourself, or the public) you are a
+suitable person to use or possess a firearm, including if there are any limitations to possession or use that may be warranted.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>Health_Background</developerName>
+    <name>Health Background</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

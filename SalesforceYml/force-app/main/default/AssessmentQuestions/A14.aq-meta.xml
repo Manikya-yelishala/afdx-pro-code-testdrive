@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>A14</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Pest Controller endorsements (prohibited firearms and/or prohibited magazines only) 
+Complete the appropriate endorsement application form on firearmssafetyauthority.govt.nz</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Checkbox</dataType>
+    <developerName>A14</developerName>
+    <name>A14</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

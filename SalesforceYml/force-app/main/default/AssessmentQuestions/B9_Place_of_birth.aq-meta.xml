@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>B9 Place of birth</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>B9 Place of birth</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Text</dataType>
+    <developerName>B9_Place_of_birth</developerName>
+    <name>B9 Place of birth</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

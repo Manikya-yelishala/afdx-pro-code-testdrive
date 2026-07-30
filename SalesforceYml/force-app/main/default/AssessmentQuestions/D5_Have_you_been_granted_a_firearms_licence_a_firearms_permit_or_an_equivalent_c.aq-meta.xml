@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>D5 Have you been granted a firearms licence, a firearms permit, or an equivalent certification to possess or use firearms overseas?</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>D5 Have you been granted a firearms licence, a firearms permit, or an equivalent certification to possess or use firearms overseas?</questionText>
+        <responseValues>No
+Yes</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>D5_Have_you_been_granted_a_firearms_licence_a_firearms_permit_or_an_equivalent_c</developerName>
+    <name>D5 Have you been granted a firearms licence, a firearms permit, or an equivalent certification to possess or use firearms overseas?</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

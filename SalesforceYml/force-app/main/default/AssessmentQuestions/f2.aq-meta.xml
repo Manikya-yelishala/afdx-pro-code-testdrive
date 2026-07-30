@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>f2</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Have you thought about, threatened or attempted suicide or self-harm in the past two years?</questionText>
+        <responseValues>Yes
+No</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>f2</developerName>
+    <name>f2</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

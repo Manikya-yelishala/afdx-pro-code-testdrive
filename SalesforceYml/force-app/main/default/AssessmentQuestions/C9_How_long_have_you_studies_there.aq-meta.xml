@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>C9 How long have you studies there?</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>C9 How long have you studies there?</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>C9_How_long_have_you_studies_there</developerName>
+    <name>C9 How long have you studies there?</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

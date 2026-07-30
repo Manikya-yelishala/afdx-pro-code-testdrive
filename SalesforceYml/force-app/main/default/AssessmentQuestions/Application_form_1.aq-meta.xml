@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Application form 1</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;h3&gt;Who can apply:&lt;/h3&gt;
+&lt;p&gt;To apply for a firearms licence, you must:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;be 16 or over&lt;/li&gt;
+  &lt;li&gt;have not had a firearms licence revoked in the last 5 years&lt;/li&gt;
+  &lt;li&gt;not be a disqualified person from having a firearms licence (section 22H of the Arms Act 1983).&lt;/li&gt;
+&lt;/ul&gt;</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>Application_form_1</developerName>
+    <name>Application form 1</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

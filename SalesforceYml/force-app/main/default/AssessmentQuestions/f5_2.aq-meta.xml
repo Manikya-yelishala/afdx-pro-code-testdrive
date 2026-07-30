@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>f5.2</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;b&gt;Health practitioner&lt;/b&gt;&lt;br&gt;
+Section 23(2A), Arms Act 1983.
+The health practitioner must be registered with the Medical Council of New Zealand, a nurse practitioner registered with the
+Nursing Council of New Zealand, a psychologist registered with the New ZealaZealand Psychologists Board, or a duly authorised officer
+under the Mental Health (Compulsory Assessment and Treatment) Act 1992.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>f5_2</developerName>
+    <name>f5.2</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

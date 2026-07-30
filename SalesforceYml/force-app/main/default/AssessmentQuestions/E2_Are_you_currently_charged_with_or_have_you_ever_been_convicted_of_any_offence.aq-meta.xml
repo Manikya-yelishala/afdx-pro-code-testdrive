@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>E2 Are you currently charged with or have you ever been convicted of any offence in New Zealand or overseas (including but not limited to, an offence involving violence, drugs, or alcohol))</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>E2 Are you currently charged with or have you ever been convicted of any offence in New Zealand or overseas (including but not limited to, an offence involving violence, drugs, or alcohol))</questionText>
+        <responseValues>No
+Yes</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>E2_Are_you_currently_charged_with_or_have_you_ever_been_convicted_of_any_offence</developerName>
+    <name>E2 Are you currently charged with or have you ever been convicted of any offence in New Zealand or overseas (including but not limited to, an offence involving violence, drugs, or alcohol))</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

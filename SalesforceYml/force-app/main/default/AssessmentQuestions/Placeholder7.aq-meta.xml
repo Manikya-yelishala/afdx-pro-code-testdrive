@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Placeholder7</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;span style=&quot;color: green; font-weight: bold;&quot;&gt;Current educational facility/school details&lt;/span&gt;
+Please provide details of the employer(s) you currently work for and/or business(es) you own</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>Placeholder7</developerName>
+    <name>Placeholder7</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>f5</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Do you consume recreational drugs?</questionText>
+        <responseValues>Yes
+No</responseValues>
+        <status>Active</status>
+        <versionNumber>2</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>f5</developerName>
+    <name>f5</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

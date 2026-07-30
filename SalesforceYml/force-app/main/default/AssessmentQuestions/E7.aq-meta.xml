@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>E7</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Have you been involved with or provided funding for a designated terrorist entity or extremist group?</questionText>
+        <responseValues>No
+Yes</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>E7</developerName>
+    <name>E7</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

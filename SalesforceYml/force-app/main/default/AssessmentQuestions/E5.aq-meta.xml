@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>E5</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>E5 Do you have, or have at any time had, a Protection Order or Temporary Protection Order made against you under the Family Violence Act 2018, or the Domestic Violence Act 1995, or a restraining order made against you under the Harassment Act 1997?</questionText>
+        <responseValues>No
+Yes</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>E5</developerName>
+    <name>E5</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

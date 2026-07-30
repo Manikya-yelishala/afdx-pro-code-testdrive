@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>C10 Suburb</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Suburb</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Text</dataType>
+    <developerName>C10_Suburb</developerName>
+    <name>C10 Suburb</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

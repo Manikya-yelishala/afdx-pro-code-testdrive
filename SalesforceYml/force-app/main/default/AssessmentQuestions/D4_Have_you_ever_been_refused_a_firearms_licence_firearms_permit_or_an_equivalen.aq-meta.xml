@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>D4 Have you ever been refused a firearms licence, firearms permit or an equivalent certificate to possess or use firearms in a country other than New Zealand?</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>D4 Have you ever been refused a firearms licence, firearms permit or an equivalent certificate to possess or use firearms in a country other than New Zealand?</questionText>
+        <responseValues>No
+Yes</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>D4_Have_you_ever_been_refused_a_firearms_licence_firearms_permit_or_an_equivalen</developerName>
+    <name>D4 Have you ever been refused a firearms licence, firearms permit or an equivalent certificate to possess or use firearms in a country other than New Zealand?</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

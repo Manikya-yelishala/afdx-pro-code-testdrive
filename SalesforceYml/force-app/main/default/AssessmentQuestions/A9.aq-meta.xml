@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>A9</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Member of a recognised pistol target shooting club (pistols only - complete form: FRM29TS)</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Checkbox</dataType>
+    <developerName>A9</developerName>
+    <name>A9</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

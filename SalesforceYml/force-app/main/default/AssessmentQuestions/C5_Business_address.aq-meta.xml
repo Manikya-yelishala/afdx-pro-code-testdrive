@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>C5 Business address</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>C5 Business address</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>C5_Business_address</developerName>
+    <name>C5 Business address</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

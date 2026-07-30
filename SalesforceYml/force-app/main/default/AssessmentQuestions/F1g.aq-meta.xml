@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>F1g</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Serious head injury or neurological disorder of any description or kind, which has lasting effects</questionText>
+        <responseValues>yes
+No</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>F1g</developerName>
+    <name>F1g</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

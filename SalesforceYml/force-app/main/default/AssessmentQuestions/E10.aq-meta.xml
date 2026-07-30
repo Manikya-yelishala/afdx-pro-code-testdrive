@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>E10</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>E10 Please list any countries you have travelled to or lived in that involved a stay of a period of 14 days or more at any one time over the previous five years, with the total time visiting or resident in each such country.</questionText>
+        <status>Active</status>
+        <versionNumber>2</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>E10</developerName>
+    <name>E10</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

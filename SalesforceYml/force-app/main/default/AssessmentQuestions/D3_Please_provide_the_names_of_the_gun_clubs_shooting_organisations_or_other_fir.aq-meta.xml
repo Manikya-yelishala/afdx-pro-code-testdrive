@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>D3 Please provide the names of the gun clubs, shooting organisations or other firearms related organisations, such as historical or collection clubs, of which you are a member</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>D3 Please provide the names of the gun clubs, shooting organisations or other firearms related organisations, such as historical or collection clubs, of which you are a member</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextArea</dataType>
+    <developerName>D3_Please_provide_the_names_of_the_gun_clubs_shooting_organisations_or_other_fir</developerName>
+    <name>D3 Please provide the names of the gun clubs, shooting organisations or other firearms related organisations, such as historical or collection clubs, of which you are a member</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

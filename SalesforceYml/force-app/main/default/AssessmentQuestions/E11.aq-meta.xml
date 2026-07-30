@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>E11</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>E11 Have you stayed in any country (other than New Zealand) for more than six months in total (not necessarily consecutive) in the previous 10 years?</questionText>
+        <responseValues>No
+Yes</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>E11</developerName>
+    <name>E11</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

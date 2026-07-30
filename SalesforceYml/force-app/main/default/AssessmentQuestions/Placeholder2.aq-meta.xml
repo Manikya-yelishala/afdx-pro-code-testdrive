@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Placeholder2</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Note: Remember to also complete the form of the endorsement you are applying for.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>Placeholder2</developerName>
+    <name>Placeholder2</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

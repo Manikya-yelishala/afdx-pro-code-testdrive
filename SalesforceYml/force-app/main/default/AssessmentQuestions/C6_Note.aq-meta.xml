@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>C6 Note</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;b&gt;Note :&lt;/b&gt; If &apos;Yes&apos;, please provide details of the current, or most recent educational facility / school.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>C6_Note</developerName>
+    <name>C6 Note</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

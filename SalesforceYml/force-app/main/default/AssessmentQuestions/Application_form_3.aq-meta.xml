@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Application form 3</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;h3&gt;Length of a licence:&lt;/h3&gt;
+&lt;p&gt;A new licence is valid for 5 years if:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;it&amp;rsquo;s the first time you&amp;rsquo;ve had a firearms licence&lt;/li&gt;
+  &lt;li&gt;your firearms licence expires before you apply for a new one&lt;/li&gt;
+  &lt;li&gt;your previous firearms licence was revoked or surrendered (section 25A of the Arms Act 1983).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you reapply before your current licence expires, your new licence will be valid for 10 years.&lt;/p&gt;</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>Application_form_3</developerName>
+    <name>Application form 3</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

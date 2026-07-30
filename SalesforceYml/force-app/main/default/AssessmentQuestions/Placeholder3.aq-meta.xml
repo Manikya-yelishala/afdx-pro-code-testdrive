@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Placeholder3</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>As the holder of, or an applicant for, a firearms license, I am also applying for recognition by Te Taru PQreke as a person who:</questionText>
+        <status>Active</status>
+        <versionNumber>3</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>Placeholder3</developerName>
+    <name>Placeholder3</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

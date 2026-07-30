@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>A5</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>List endorsement currently held</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextArea</dataType>
+    <developerName>A5</developerName>
+    <name>A5</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

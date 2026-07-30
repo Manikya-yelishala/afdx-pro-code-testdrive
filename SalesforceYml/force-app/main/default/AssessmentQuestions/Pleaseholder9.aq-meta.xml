@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Pleaseholder9</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;strong style=&quot;color: green;&quot;&gt;Overseas licences&lt;/strong&gt;</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>Pleaseholder9</developerName>
+    <name>Pleaseholder9</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

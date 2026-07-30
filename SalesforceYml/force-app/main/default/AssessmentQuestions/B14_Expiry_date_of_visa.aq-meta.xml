@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>B14 Expiry date of visa</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Expiry date of visa</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Date</dataType>
+    <developerName>B14_Expiry_date_of_visa</developerName>
+    <name>B14 Expiry date of visa</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

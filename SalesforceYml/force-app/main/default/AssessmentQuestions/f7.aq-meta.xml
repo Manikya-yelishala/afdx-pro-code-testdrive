@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>f7</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;b&gt;Reason name not known&lt;/b&gt;
+If you do not know the name of the person who is your health practitioner you may state the reason for this
+(e.g. rural practice staffed on rotation). Applications that do not provide reasonable health practitioner contact
+information cannot be processed.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextArea</dataType>
+    <developerName>f7</developerName>
+    <name>f7</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

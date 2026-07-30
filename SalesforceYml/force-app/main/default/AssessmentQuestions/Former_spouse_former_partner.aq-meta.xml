@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Former spouse/former partner</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>You must provide details of former spouses or partners you’ve had a relationship with at any time during the &lt;b&gt;past five years &lt;/b&gt;(if
+you’ve been married, in a civil union or a de facto relationship).
+If you have had more than one former spouse or partner within the past five years, include their details in &lt;b&gt;Section P &lt;/b&gt;and reference
+this section. If you never had a spouse or partner within the past five years, please proceed to Section J.
+If your referee is a close associate, you must provide an additional unrelated referee. Please include their details and the reason
+for using a close associate in &lt;b&gt;Section P &lt;/b&gt;and reference this section.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>Former_spouse_former_partner</developerName>
+    <name>Former spouse/former partner</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

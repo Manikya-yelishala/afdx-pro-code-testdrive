@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>PlaceHolder10</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>In order to be considered for a firearms licence you must provide detail of any criminal offending you have been involved with, now or in the past.
+
+Note that the Criminal Records (Clean Slate) Act 2004 requires you to state whether you have a criminal record when applying for a firearms licence (because of an exception to the Clean State scheme). Read more about the Clean Slate scheme on the Ministry of Justice website.
+
+If you answer Yes&apos; to any of the questions in this section, please provide details in the space provided below. If details are not provided, it may delay the processing of your application.
+
+A &apos;Yes&apos; answer &lt;b&gt;does not&lt;/b&gt; mean your application will be refused but it may lead to further examination.</questionText>
+        <status>Active</status>
+        <versionNumber>2</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>PlaceHolder10</developerName>
+    <name>PlaceHolder10</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

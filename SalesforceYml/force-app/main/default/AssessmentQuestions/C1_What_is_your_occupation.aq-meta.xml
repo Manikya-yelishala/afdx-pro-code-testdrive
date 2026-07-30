@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>C1 What is your occupation?</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>C1 What is your occupation?</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Text</dataType>
+    <developerName>C1_What_is_your_occupation</developerName>
+    <name>C1 What is your occupation?</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

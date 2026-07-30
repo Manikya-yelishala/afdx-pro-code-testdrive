@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>D6 If you answered &apos;Yes&apos; to question D5, has that licence, permit or certification subsequently been suspended, revoked or cancelled?</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>D6 If you answered &apos;Yes&apos; to question D5, has that licence, permit or certification subsequently been suspended, revoked or cancelled?</questionText>
+        <responseValues>No
+Yes</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>D6_If_you_answered_Yes_to_question_D5_has_that_licence_permit_or_certification_s</developerName>
+    <name>D6 If you answered &apos;Yes&apos; to question D5, has that licence, permit or certification subsequently been suspended, revoked or cancelled?</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

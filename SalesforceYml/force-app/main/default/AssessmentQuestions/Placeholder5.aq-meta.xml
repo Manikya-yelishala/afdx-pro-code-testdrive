@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Placeholder5</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Please provide details of your employment and/or education over the past three years.
+&lt;ul&gt;
+  &lt;li&gt;Former employer and educational facility details should be recorded in &lt;b&gt;Section P&lt;/b&gt; at the end of this form, noting this section reference. If you have more than one current employer, or you attend more than one educational facility, these must also be recorded.&lt;/li&gt;
+&lt;/ul&gt;</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>Placeholder5</developerName>
+    <name>Placeholder5</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

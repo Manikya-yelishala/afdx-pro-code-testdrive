@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>E11 Note</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>If you have stayed in any country other than New Zealand for six months or more (not necessarily consecutive) within the last 10 years, you must provide a criminal record check for each country, at your own expense, with your application.
+
+The criminal history check must not be dated older than two months from the date of your application for a New Zealand Firearms Licence.
+
+You can find contact details for various countries and how they issue criminal record checks on Immigration New Zealand&apos;s website.
+
+&lt;b&gt;Note: &lt;b/&gt; If you answered &apos;Yes&apos; to question E11 please provide the countries and relevant dates.</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>E11_Note</developerName>
+    <name>E11 Note</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

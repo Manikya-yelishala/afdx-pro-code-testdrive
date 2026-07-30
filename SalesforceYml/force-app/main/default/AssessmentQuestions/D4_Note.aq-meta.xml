@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>D4 Note</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Note : If &apos;Yes&apos;, please provide details of the refusal.</questionText>
+        <status>Active</status>
+        <versionNumber>2</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextArea</dataType>
+    <developerName>D4_Note</developerName>
+    <name>D4 Note</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>f2.1</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>&lt;B&gt;Note:&lt;b&gt; If ‘Yes’, what were the circumstances, and is/are the events(s) that lead to these thoughts being resolved?</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextArea</dataType>
+    <developerName>f2_1</developerName>
+    <name>f2.1</name>
+    <questionCategory>FireArms</questionCategory>
+</AssessmentQuestion>
